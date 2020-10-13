@@ -1,0 +1,15 @@
+!Project
+_conda_name: sankey_diagram_survey
+_project_name: sankey_diagram_survey
+_python_version: 3.5
+_repo_name: sankey_diagram_survey
+_repo_user: lvoegtlin
+_vcs: !VCS
+  _connection_types:
+  - !ConnectionType
+    _name: https
+    _url: https://github.com/
+  - !ConnectionType
+    _name: ssh
+    _url: 'git@github.com:'
+  _name: Github
