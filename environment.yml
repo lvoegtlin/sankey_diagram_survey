@@ -1,0 +1,9 @@
+name: sankey_diagram_survey
+channels:
+  - conda-forge
+  - defaults
+  - ak_93
+  - ecrop
+dependencies:
+  - python=3.5
+prefix: /Users/voegtlil/miniconda3/envs/sankey_diagram_survey
